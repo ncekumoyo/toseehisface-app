@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "toseehisface-app",
+    "slug": "toseehisface-app"
+  }
+}
